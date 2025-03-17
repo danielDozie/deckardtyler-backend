@@ -9117,6 +9117,16 @@ sanity-plugin-asset-source-unsplash@^3.0.3:
     react-photo-album "2.4.1"
     rxjs "^7.8.1"
 
+sanity-plugin-dashboard-widget-document-list@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/sanity-plugin-dashboard-widget-document-list/-/sanity-plugin-dashboard-widget-document-list-2.1.0.tgz#19c98ec9968063833c15286d0d745e657b46caa1"
+  integrity sha512-nMcBWw+jo8Pl7CN11AXetbJ9WPM/O0zztR+DJbi4m5ro1/AKKukWlORW41GnkXaWpgpuKz5OAfL7dATIFjI/QA==
+  dependencies:
+    "@sanity/incompatible-plugin" "^1.0.5"
+    "@sanity/ui" "^2.15.2"
+    lodash "^4.17.21"
+    rxjs "^7.8.1"
+
 sanity-plugin-media@^2.3.2:
   version "2.4.2"
   resolved "https://registry.yarnpkg.com/sanity-plugin-media/-/sanity-plugin-media-2.4.2.tgz#fc7a8d45ca5f76ae2d8eb18d25d908c44cfa3f44"
